@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 
 Currently I am kind of busy, so I will post some info about myself later. In a meanwhile
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <!--
 **petr-ngn/petr-ngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
