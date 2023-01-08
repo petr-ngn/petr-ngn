@@ -1,5 +1,9 @@
 ### Hi there 👋
 Welcome to my GitHub profile!
+
+Currently I am kind of busy, so I will post some info about myself later. In a meanwhile
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 <!--
 **petr-ngn/petr-ngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
