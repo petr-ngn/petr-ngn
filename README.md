@@ -9,6 +9,10 @@ Currently I am kind of busy, so I will post some info about myself later. In a m
  - :student: Master's student of Data & Analytics for Business at [FIS VŠE](https://fis.vse.cz/english/)
  - :student: Exchange student at [Universiteit Antwerpen](https://www.uantwerpen.be/en/)
 
+### Contact information:
+<a href="https://www.linkedin.com/in/petr-ngn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <a target="_blank" href="mailto:ngn.petr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
 ### Skills & Tools
 - Data Science, Machine Learning, Statistics, Econometrics, Finance
 
@@ -30,7 +34,7 @@ Currently I am kind of busy, so I will post some info about myself later. In a m
 
 
 
-<a href="https://www.linkedin.com/in/petr-ngn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 
 <!--
 **petr-ngn/petr-ngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
