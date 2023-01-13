@@ -7,6 +7,7 @@ My name is Petr:
  - :round_pushpin: Czech Republic
  - :student: Master's student of Banking & Insurance at [FFÚ VŠE](https://ffu.vse.cz/english/)
  - :student: Master's student of Data & Analytics for Business at [FIS VŠE](https://fis.vse.cz/english/)
+ - :student: Exchange student at [Universiteit Antwerpen](https://www.uantwerpen.be/en/)
 
 
 
