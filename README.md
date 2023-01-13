@@ -4,7 +4,7 @@ Welcome to my GitHub!
 Currently I am kind of busy, so I will post some info about myself later. In a meanwhile, you can check my LinkedIn profile and don't hesitate to reach out to me!
 
 My name is Petr:
-- Location: Czech Republic :czech_republic:
+- :round_pushpin: Czech Republic 🇨🇿
 - Double Master's degree student: Banking & Insurance and Data & Analytics for Business (Prague University of Economics and Business) :student:
 
 
