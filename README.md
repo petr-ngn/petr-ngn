@@ -5,7 +5,8 @@ Currently I am kind of busy, so I will post some info about myself later. In a m
 
 My name is Petr:
  - :round_pushpin: Czech Republic 🇨🇿
- - :student: Double Master's degree student: Banking & Insurance and Data & Analytics for Business (Prague University of Economics and Business) 
+ - :student: Master's student of Banking & Insurance
+ - :student: Master's student of Data & Analytics for Business
 
 
 
