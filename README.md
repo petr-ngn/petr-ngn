@@ -3,6 +3,11 @@ Welcome to my GitHub!
 
 Currently I am kind of busy, so I will post some info about myself later. In a meanwhile, you can check my LinkedIn profile and don't hesitate to reach out to me!
 
+My name is Petr:
+- student of 2 Master's degree programs - Banking & Insurance and Data & Analytics for Business - Prague University of Economics and Business, Czech Republic.
+
+
+
 <a href="https://www.linkedin.com/in/petr-ngn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <!--
