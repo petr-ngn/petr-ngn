@@ -14,6 +14,7 @@ Currently I am kind of busy, so I will post some info about myself later. In a m
  <a target="_blank" href="mailto:ngn.petr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 ### Skills & Tools
+![Data Science](https://img.shields.io/badge/-Data%20Science-brightgreen)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
