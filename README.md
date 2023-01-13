@@ -9,7 +9,7 @@ Currently I am kind of busy, so I will post some info about myself later. In a m
  - :student: Master's student of Data & Analytics for Business at [FIS VŠE](https://fis.vse.cz/english/)
  - :student: Exchange student at [Universiteit Antwerpen](https://www.uantwerpen.be/en/)
 
-### Tools
+### Skills & Tools
 - Data Science, Machine Learning, Statistics, Econometrics, Finance
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
