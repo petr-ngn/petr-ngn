@@ -4,9 +4,9 @@ Welcome to my GitHub!
 Currently I am kind of busy, so I will post some info about myself later. In a meanwhile, you can check my LinkedIn profile and don't hesitate to reach out to me!
 
 My name is Petr:
- - :round_pushpin: Czech Republic 🇨🇿
- - :student: Master's student of Banking & Insurance
- - :student: Master's student of Data & Analytics for Business
+ - :round_pushpin: Czech Republic
+ - :student: Master's student of Banking & Insurance, Prague University of Economics and Business
+ - :student: Master's student of Data & Analytics for Business, Prague University of Economics and Business
 
 
 
