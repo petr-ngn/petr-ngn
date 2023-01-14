@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub profile!
 
-My name is Petr N. Currently, I'm s double master's grad student who is oriented towards data science and machine learning, particularly programming in Python as well as statistical modelling in R! :computer:
+My name is Petr N. and currently I'm a double master's grad student who is oriented towards data science and machine learning, particularly the programming in Python as well as the statistical modelling in R! :computer:
 
 ### Personal information
  - :round_pushpin: Czech Republic
@@ -22,7 +22,7 @@ My name is Petr N. Currently, I'm s double master's grad student who is oriented
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-darkgreen)
 ![Statistics](https://img.shields.io/badge/-Statistics-orange)
 ![Econometrics](https://img.shields.io/badge/-Econometrics-darkorange)
-![Finance](https://img.shields.io/badge/-Econometrics-darkblue)
+![Finance](https://img.shields.io/badge/-Finance-darkblue)
 ![Risk Modelling](https://img.shields.io/badge/-Risk%20Modelling-blue)
 
 
@@ -44,7 +44,7 @@ My name is Petr N. Currently, I'm s double master's grad student who is oriented
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### Projects
-<img src = "https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg" width=30% height=30%>
+<img src = "https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg" width=50% height=50%>
 
 - [**Credit Risk Modelling (Probability of Default Prediction)**](https://github.com/petr-ngn/Probability_of_Default_Prediction)
 - [**Face Image Recognition (Siamese Neural Networks)**](https://github.com/petr-ngn/CNN_Real_Estate_Offices_Amenities_Listing)
