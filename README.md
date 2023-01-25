@@ -7,7 +7,7 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
  - :round_pushpin: Czech Republic
  - :student: Master's student of Banking & Insurance at [**FFÚ VŠE**](https://ffu.vse.cz/english/)
  - :student: Master's student of Data & Analytics for Business at [**FIS VŠE**](https://fis.vse.cz/english/)
- - :computer: Data Scientist & Credit Risk Modeller at [**PwC**](https://www.pwc.com/cz/en.html)
+ - :computer: Credit Risk Modelling Intern at [**PwC**](https://www.pwc.com/cz/en.html)
 
 ### Contact information:
 <a href="mailto:ngn.petr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
