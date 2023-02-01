@@ -53,7 +53,7 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
 - [**Object Detection of Real Estate Amenities (Convolutional Neural Network)**](https://github.com/petr-ngn/CNN_Real_Estate_Offices_Amenities_Listing)
 - [**Mushroom Classification (Random Forest with Bayesian Optimization)**](https://github.com/petr-ngn/Data_X_2022)
 - [**Motorcycles Reviews' Binary Classification (Certified Data Scientist Associate at DataCamp)**](https://github.com/petr-ngn/DataCamp_DS_Associate_Certification)
-- [**Markowitz Efficient Frontier Generator using Python**](https://github.com/petr-ngn/Markowitz_Efficient_Frontier_Python)
+- [**Efficient Frontier Generator using Python (Markowitz Portfolio Selection Theory)**](https://github.com/petr-ngn/Markowitz_Efficient_Frontier_Python)
 
 <!--
 **petr-ngn/petr-ngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
