@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 My name is Petr N. and currently I'm a double master's grad student who is oriented towards data science and machine learning, particularly the programming in Python as well as the statistical modelling in R! :computer:
 
 ### Personal information
- - :round_pushpin: Czech Republic
+ - :round_pushpin: Prague, Czech Republic
  - :student: Master's student of Banking & Insurance at [**FFÚ VŠE**](https://ffu.vse.cz/english/)
  - :student: Master's student of Data & Analytics for Business at [**FIS VŠE**](https://fis.vse.cz/english/)
  - :computer: Credit Risk Modelling Intern at [**PwC**](https://www.pwc.com/cz/en.html)
