@@ -48,12 +48,12 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
 ### Projects
 <img src = "https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg" width=50% height=50%>
 
-- [**Credit Risk Modelling (Probability of Default Prediction)**](https://github.com/petr-ngn/Probability_of_Default_Prediction)
 - [**Face Image Recognition (Siamese Neural Networks)**](https://github.com/petr-ngn/ML_Siamese_Neural_Networks)
 - [**Object Detection of Real Estate Amenities (Convolutional Neural Network)**](https://github.com/petr-ngn/CNN_Real_Estate_Offices_Amenities_Listing)
-- [**Mushroom Classification (Random Forest with Bayesian Optimization)**](https://github.com/petr-ngn/Data_X_2022)
-- [**Motorcycles Reviews' Binary Classification (Certified Data Scientist Associate at DataCamp)**](https://github.com/petr-ngn/DataCamp_DS_Associate_Certification)
 - [**Efficient Frontier Generator using Python (Markowitz Portfolio Selection Theory)**](https://github.com/petr-ngn/Markowitz_Efficient_Frontier_Python)
+- [**Mushroom Classification (Random Forest with Bayesian Optimization)**](https://github.com/petr-ngn/Data_X_2022)
+- [**Credit Risk Modelling (Probability of Default Prediction)**](https://github.com/petr-ngn/Probability_of_Default_Prediction)
+- [**Motorcycles Reviews' Binary Classification (Certified Data Scientist Associate at DataCamp)**](https://github.com/petr-ngn/DataCamp_DS_Associate_Certification)
 
 <!--
 **petr-ngn/petr-ngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
