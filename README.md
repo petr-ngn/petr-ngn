@@ -13,11 +13,9 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
 <a href="mailto:ngn.petr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/petr-ngn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></img></a>
 <a href="https://stackoverflow.com/users/21003873/petr-ngn"><img src = "https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white"></img></a>
-<a href="https://www.kaggle.com/ptrngn"><img src = "https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
 
 ### Skills & Tools
 ![Data Science](https://img.shields.io/badge/-Data%20Science-lightgreen)
-![Data Mining](https://img.shields.io/badge/-Data%20Mining-brightgreen)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-green)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-darkgreen)
 ![Statistics](https://img.shields.io/badge/-Statistics-orange)
