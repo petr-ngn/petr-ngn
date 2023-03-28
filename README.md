@@ -43,6 +43,7 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
 <img src = "https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg" width=50% height=50%>
 
 - [**Master's Thesis: Application of ML algorithms within Credit Risk Modelling** (_will be published once the thesis will be defended)_](https://github.com/petr-ngn/FFU_VSE_Masters_Thesis_ML_Credit_Risk_Modelling)
+- [**NLP Chatbot for Faculty of Informatics and Statistics (FIS) VŠE** (_will be published once the project will be defended)_](https://github.com/petr-ngn/FIS_Chatbot)
 - [**Face Image Recognition and Similarity (Siamese Neural Networks)**](https://github.com/petr-ngn/ML_Siamese_Neural_Networks)
 - [**Object Detection of Real Estate Amenities (Convolutional Neural Network)**](https://github.com/petr-ngn/CNN_Real_Estate_Offices_Amenities_Listing)
 - [**Efficient Frontier Generator using Python (Markowitz Portfolio Selection Theory)**](https://github.com/petr-ngn/Markowitz_Efficient_Frontier_Python)
