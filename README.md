@@ -49,6 +49,7 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
 - [**Efficient Frontier Generator using Python (Markowitz Portfolio Selection Theory)**](https://github.com/petr-ngn/Markowitz_Efficient_Frontier_Python)
 - [**Mushroom Classification (Bayesian Optimization Tuning)**](https://github.com/petr-ngn/Data_X_2022)
 - [**Credit Risk Modelling (Basic Probability of Default Prediction)**](https://github.com/petr-ngn/Probability_of_Default_Prediction)
+- [**Recipes' Traffic Prediction (Certified Data Scientist Professional at DataCamp)**]([https://github.com/petr-ngn/DataCamp_DS_Associate_Certification](https://github.com/petr-ngn/DataCamp_DS_Professional_Certification))
 - [**Motorcycles Reviews' Binary Classification (Certified Data Scientist Associate at DataCamp)**](https://github.com/petr-ngn/DataCamp_DS_Associate_Certification)
 
 <!--
