@@ -7,7 +7,6 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
  - :round_pushpin: Prague, Czech Republic
  - :student: Master's student of Banking & Insurance at [**FFÚ VŠE**](https://ffu.vse.cz/english/)
  - :student: Master's student of Data & Analytics for Business at [**FIS VŠE**](https://fis.vse.cz/english/)
- - :computer: Credit Risk Modelling Intern at [**PwC**](https://www.pwc.com/cz/en.html)
 
 ### Contact information:
 <a href="mailto:ngn.petr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -41,7 +40,7 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
 
 ### Projects
 
-- [**Master's Thesis: Application of Machine Learning Models within Credit Risk Modelling**_](https://github.com/petr-ngn/FFU_VSE_Masters_Thesis_ML_Credit_Risk_Modelling)
+- [**Master's Thesis: Application of Machine Learning Models within Credit Risk Modelling**](https://github.com/petr-ngn/FFU_VSE_Masters_Thesis_ML_Credit_Risk_Modelling)
 - [**NLP Chatbot for Faculty of Informatics and Statistics (FIS) VŠE**](https://github.com/petr-ngn/FIS_Chatbot)
 - [**Face Image Recognition and Similarity (Siamese Neural Networks)**](https://github.com/petr-ngn/ML_Siamese_Neural_Networks)
 - [**Object Detection of Real Estate Amenities (Convolutional Neural Network)**](https://github.com/petr-ngn/CNN_Real_Estate_Offices_Amenities_Listing)
