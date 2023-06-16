@@ -5,9 +5,9 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
 
 ### Personal information
  - :round_pushpin: Prague, Czech Republic
- - :student: Master's student of Banking & Insurance at [**FFÚ VŠE**](https://ffu.vse.cz/english/)
  - :student: Master's student of Data & Analytics for Business at [**FIS VŠE**](https://fis.vse.cz/english/)
-
+ - :student: Master's graduate of Banking & Insurance at [**FFÚ VŠE**](https://ffu.vse.cz/english/)
+ - 
 ### Contact information:
 <a href="mailto:ngn.petr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/petr-ngn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></img></a>
