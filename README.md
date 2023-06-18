@@ -19,8 +19,7 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-darkgreen)
 ![Statistics](https://img.shields.io/badge/-Statistics-orange)
 ![Econometrics](https://img.shields.io/badge/-Econometrics-darkorange)
-![Finance](https://img.shields.io/badge/-Finance-darkblue)
-![Risk Modelling](https://img.shields.io/badge/-Risk%20Modelling-blue)
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
