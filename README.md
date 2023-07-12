@@ -7,6 +7,7 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
  - :round_pushpin: Prague, Czech Republic
  - :student: Master's student of Data & Analytics for Business at [**FIS VŠE**](https://fis.vse.cz/english/)
  - :student: Master's graduate of Banking & Insurance at [**FFÚ VŠE**](https://ffu.vse.cz/english/)
+ - :computer: Machine Learning Engineer at [**LutherOne**]([https://www.ey.com/cs_cz](https://www.lutherone.com/))
  - :computer: Data Science Intern at [**EY**](https://www.ey.com/cs_cz)
 
 ### Contact information:
