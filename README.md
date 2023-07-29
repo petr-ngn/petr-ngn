@@ -9,6 +9,7 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
  - :student: Master's graduate of Banking & Insurance at [**FFÚ VŠE**](https://ffu.vse.cz/english/)
  - :computer: Machine Learning Engineer at [**LutherOne**](https://www.lutherone.com/)
  - :computer: Data Science Intern at [**EY**](https://www.ey.com/cs_cz)
+ - :computer: Python Developer Volunteer at [**Česko.Digital**](https://cesko.digital/)
 
 ### Contact information:
 <a href="mailto:ngn.petr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -43,6 +44,7 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
 
 <img src = "https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg" width=50% height=50%>
 
+- [**Skill Matching Web Application for Czech non-profit organization Česko.Digital**](https://github.com/cesko-digital/skill-matcher)
 - [**Master's Thesis: Application of Machine Learning Models within Credit Risk Modelling**](https://github.com/petr-ngn/FFU_VSE_Masters_Thesis_ML_Credit_Risk_Modelling)
 - [**NLP Chatbot for Faculty of Informatics and Statistics (FIS) VŠE**](https://github.com/petr-ngn/FIS_Chatbot)
 - [**Face Image Recognition and Similarity (Siamese Neural Networks)**](https://github.com/petr-ngn/ML_Siamese_Neural_Networks)
