@@ -5,6 +5,7 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
 
 ### Personal information
  - :round_pushpin: Prague, Czech Republic
+ - :computer: Data Scientist / Gen AI Developer at [**BigHub**](https://www.bighub.ai/)
  - :computer: Machine Learning Engineer at [**LutherOne**](https://www.lutherone.com/)
  - :student: Master's student of Data & Analytics for Business at [**FIS VŠE**](https://fis.vse.cz/english/)
  - :student: Master's graduate of Banking & Insurance at [**FFÚ VŠE**](https://ffu.vse.cz/english/)
@@ -41,6 +42,7 @@ My name is Petr N. and currently I'm a double master's grad student who is orien
 ### Projects
 
 <img src = "https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg" width=50% height=50%>
+
 - [**24-hour AI & Data DeepNote Hackathon (Winners) - AI-powered OCR Financial Analyzer for Czech-based companies**](https://github.com/petr-ngn/deepnote-hackathon)
 - [**Skill Matching Web Application for Czech non-profit organization Česko.Digital**](https://github.com/cesko-digital/skill-matcher)
 - [**Master's Thesis: Application of Machine Learning Models within Credit Risk Modelling**](https://github.com/petr-ngn/FFU_VSE_Masters_Thesis_ML_Credit_Risk_Modelling)
